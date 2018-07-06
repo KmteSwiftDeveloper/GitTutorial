@@ -10,21 +10,21 @@
     "state": "Bago",
     "temperature": "75 F",
     "date": "30 Jun",
-    "description": "Cloudy, s stray thunderstorm",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Cloudy",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Magway",
     "temperature": "68 F",
     "date": "30 Jun",
-    "description": "A shower and t-storm around",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "T-storm around",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Mandalay",
     "temperature": "74 F",
     "date": "30 Jun",
-    "description": "A thunderstorm in the evening; otherwise, clouds breaking",
+    "description": "A thunderstorm in the evening.",
     "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
@@ -32,35 +32,35 @@
     "temperature": "78 F",
     "date": "30 Jun",
     "description": "Couple of thunderstorms",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Yangon",
     "temperature": "75 F",
     "date": "30 Jun",
     "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Ayeyarwady",
     "temperature": "71 F",
     "date": "30 Jun",
-    "description": "Cloudy, a shower or t-storm",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Cloudy",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Kachin",
     "temperature": "70 F",
     "date": "30 Jun",
-    "description": "A p.m thunderstorm in sports",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Sunny",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Kayah",
     "temperature": "80 F",
     "date": "30 Jun",
-    "description": "Mostly cloudy, a shower or thunderstorm",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Mostly cloudy",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Kayin",
@@ -73,29 +73,29 @@
     "state": "Chin",
     "temperature": "74 F",
     "date": "30 Jun",
-    "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Sunny",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Mon",
     "temperature": "72 F",
     "date": "30 Jun",
-    "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Heavy Rain",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Rakhine",
     "temperature": "85 F",
     "date": "30 Jun",
-    "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Sunny",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Shane",
     "temperature": "65 F",
     "date": "30 Jun",
     "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Nay Pyi Taw",
