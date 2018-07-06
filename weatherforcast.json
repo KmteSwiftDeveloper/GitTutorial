@@ -1,108 +1,108 @@
 [
   {
     "state": "Sagaing",
-    "temperature": 82,
+    "temperature": 21°,
     "date": "30 Jun",
-    "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "description": "Sunny",
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Bago",
-    "temperature": 92,
+    "temperature": 23°,
     "date": "30 Jun",
     "description": "Cloudy, s stray thunderstorm",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Magway",
-    "temperature": 82,
+    "temperature": 27°,
     "date": "30 Jun",
     "description": "A shower and t-storm around",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Mandalay",
-    "temperature": 90,
+    "temperature": 25°,
     "date": "30 Jun",
     "description": "A thunderstorm in the evening; otherwise, clouds breaking",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Thanintharyi",
-    "temperature": 92,
+    "temperature": 18°,
     "date": "30 Jun",
     "description": "Couple of thunderstorms",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Yangon",
-    "temperature": 82,
+    "temperature": 20°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Ayeyarwady",
-    "temperature": 90,
+    "temperature": 29°,
     "date": "30 Jun",
     "description": "Cloudy, a shower or t-storm",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Kachin",
-    "temperature": 90,
+    "temperature": 30°,
     "date": "30 Jun",
     "description": "A p.m thunderstorm in sports",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Kayah",
-    "temperature": 82,
+    "temperature": 25°,
     "date": "30 Jun",
     "description": "Mostly cloudy, a shower or thunderstorm",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Kayin",
-    "temperature": 82,
+    "temperature": 22°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   },
 {
     "state": "Chin",
-    "temperature": 82,
+    "temperature": 15°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Mon",
-    "temperature": 82,
+    "temperature": 27°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Rakhine",
-    "temperature": 82,
+    "temperature": 18°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Shane",
-    "temperature": 87,
+    "temperature": 17°,
     "date": "30 Jun",
     "description": "A t-storm in the area late",
     "photo": "http://placehold.it/150/92c952"
   },
 {
     "state": "Nay Pyi Taw",
-    "temperature": 95,
+    "temperature": 25°,
     "date": "30 Jun",
     "description": "Cloudy, a shower or t-storm",
-    "photo": "http://placehold.it/150/92c952"
+    "photo": "https://image.flaticon.com/icons/png/512/861/861059.png"
   }
 ]
 
